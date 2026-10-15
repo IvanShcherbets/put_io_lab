@@ -1,4 +1,4 @@
-# Kalkulator kosztu przesyłki
+# Kalkulator ceny zamówienia
 
 Projekt ćwiczeniowy na laboratoria z Gita: jeden plik `Program.java` korzystający
 wyłącznie ze standardowej biblioteki Javy. Starter celowo zawiera błędy opisane
