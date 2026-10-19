@@ -82,3 +82,17 @@ Oczekiwany wynik:
 ```text
 Cena: 0.00
 ```
+## Przypadek z ujemną liczbą produktów.
+```bash
+java 04-git/Program.java 0 100 0
+```
+
+Oczekiwany komunikat:
+
+```text
+Błąd: liczba produktów nie może być ujemna.
+
+```
+Strumień wyjściowy: stderr
+
+Kod zakończenia: 1
