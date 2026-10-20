@@ -65,6 +65,45 @@ Strumień wyjściowy: stderr
 
 Kod zakończenia: 1
 
+## Przypadki kontrolne rabatu
+
+Poniższe przypadki wymagają poprawki z gałęzi `fix/discount`.
+
+### Rabat 25%
+
+Polecenie:
+
+```bash
+java 04-git/Program.java 1 80 25
+```
+
+Oczekiwany wynik po poprawce:
+
+```text
+Cena: 60.00
+```
+
+Przed poprawką program zwraca `Cena: 55.00`.
+
+### Rabat 100%
+
+Polecenie:
+
+```bash
+java 04-git/Program.java 2 50 100
+```
+
+Oczekiwany wynik:
+
+```text
+Cena: 0.00
+```
+
+Przed poprawką program również zwraca `Cena: 0.00`.
+
+Ten przypadek przechodzi także przed poprawką,
+dlatego sam nie wykrywa błędu naliczania rabatu.
+
 ## Przypadki kontrolne
 
 Wykonuj polecenia ręcznie i porównuj wyniki. Nie potrzebujesz frameworka testowego.
@@ -96,3 +135,4 @@ przypadki przed wykonaniem ćwiczeń.
 Ta lista opisuje wersję początkową. Po zakończeniu wszystkich ćwiczeń program
 powinien spełniać specyfikację i wszystkie przypadki kontrolne, również te
 dopisane podczas pracy.
+
