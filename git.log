@@ -1,13 +1,114 @@
-23d8ae5 Merge pull request #1 from IvanShcherbets/docs/usage
-dfa026f Update READMEDWA.md
-0880acd Log
-39e8497 Opisz przypadek bez produktów
-ea2cd8f Popraw tytuł kalkulatora w dokumentacji
-897b473 Merge branch 'main' of https://github.com/IvanShcherbets/put_io_lab
-5467478 Delete team.txt
-44fdc0d Create team.txt
-e56e55b Delete main/Nowy Dokument tekstowy.txt
-cfba102 Add files via upload
-f3cb996 Initial commit
-f1594be Dodaj starter kalkulatora i opis uruchamiania
-edf5455 Dodaj autora repozytorium
+commit e830b290a22de0813fbb9c4e2c8c3913183a80f5
+Merge: 232c41a 9ae368f
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Tue Oct 20 17:28:05 2026 +0200
+
+    Merge pull request #3 from IvanShcherbets/fix/quantity
+    
+    Odrzuć ujemną liczbę produktów
+
+commit 9ae368f462a26ed70044d8178e0b3cdf3e10900a
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Tue Oct 20 16:40:06 2026 +0200
+
+    Popraw przypadek kontrolny w README
+
+commit ee1f7b8f47296dd6769622c05b5b13dec2eeb7a9
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Mon Oct 19 19:31:44 2026 +0200
+
+    Odrzuć ujemną liczbę produktów
+
+commit 232c41a15bb51fe3f264787935ce1551254e7f14
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Sun Oct 18 16:53:08 2026 +0200
+
+    Log
+
+commit 73bbe0ad8b10b359380bc322fa79706cce022423
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Sun Oct 18 16:52:01 2026 +0200
+
+    Dodano team.txt
+
+commit 23d8ae5c2cad08a203e2458609e50ef894694a27
+Merge: dfa026f 0880acd
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Sun Oct 18 18:04:37 2026 +0400
+
+    Merge pull request #1 from IvanShcherbets/docs/usage
+    
+    Merge commit
+
+commit dfa026f14231e6ab1e623e9e7e99fdadfc4b8308
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 16:47:54 2026 +0400
+
+    Update READMEDWA.md
+
+commit 0880acdbf7d0b7162892394460bed01761408d5d
+Author: Ivan Shchcerbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 13:00:14 2026 +0400
+
+    Log
+
+commit 39e8497860c57735eec3bd4f38870ef739f94687
+Author: Ivan Shchcerbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 12:54:41 2026 +0400
+
+    Opisz przypadek bez produktów
+
+commit ea2cd8f53c671906035c96c22b3cd75ef171754e
+Author: Ivan Shchcerbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 12:54:00 2026 +0400
+
+    Popraw tytuł kalkulatora w dokumentacji
+
+commit 897b473c955cf54e8e545e4cf8a69fc78768ffec
+Merge: f1594be 5467478
+Author: Ivan Shchcerbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 12:45:47 2026 +0400
+
+    Merge branch 'main' of https://github.com/IvanShcherbets/put_io_lab
+
+commit 546747846b406d68cc54373fd324b386b2879945
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 16:45:16 2026 +0400
+
+    Delete team.txt
+
+commit 44fdc0d011b9a0dc3248e688c518a7cb212e2f6d
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 16:19:56 2026 +0400
+
+    Create team.txt
+
+commit e56e55b2a65701805034b5d1817db94d3e9e226f
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 16:00:37 2026 +0400
+
+    Delete main/Nowy Dokument tekstowy.txt
+
+commit cfba1025504fe2681897c67231fb8778b3d93f4e
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 16:00:21 2026 +0400
+
+    Add files via upload
+
+commit f3cb996c56037c66c9ceea24de35658d762d576b
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 15:59:08 2026 +0400
+
+    Initial commit
+
+commit f1594bef881eb86938451dd3c56785b0cd2c3453
+Author: Ivan Shchcerbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 12:44:01 2026 +0400
+
+    Dodaj starter kalkulatora i opis uruchamiania
+
+commit edf54557a95d9012639e07a482bfa695eda3e849
+Author: Ivan Shchcerbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Thu Oct 15 12:33:53 2026 +0400
+
+    Dodaj autora repozytorium
