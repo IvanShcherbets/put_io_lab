@@ -17,8 +17,8 @@ public class Program {
                 System.err.println("Błąd: cena musi być nieujemna, a rabat od 0 do 100.");
                 System.exit(1);
             }
-            if (quantity < 1)
-            {
+
+            if (quantity < 0) {
                 System.err.println("Błąd: liczba produktów nie może być ujemna.");
                 System.exit(1);
             }
