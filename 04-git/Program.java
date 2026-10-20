@@ -17,7 +17,11 @@ public class Program {
                 System.err.println("Błąd: cena musi być nieujemna, a rabat od 0 do 100.");
                 System.exit(1);
             }
-
+            if (quantity < 0)
+            {
+                System.err.println("Błąd: liczba produktów nie może być ujemna.");
+                System.exit(1);
+            }
             double subtotal = quantity * unitPrice;
             double total = subtotal - discount;
             System.out.printf(Locale.ROOT, "Cena: %.2f%n", total);
