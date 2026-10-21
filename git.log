@@ -1,3 +1,71 @@
+commit 7956838a4f3e771aa43c548d36b65e393ee7226d
+Merge: faa207c 080d52a
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Wed Oct 21 20:06:12 2026 +0200
+
+    Merge pull request #5 from IvanShcherbets/docs/examples
+    
+    Dodaj przypadki kontrolne rabatu
+
+commit 080d52a9793c36f1aef668ba629ae367a4e21225
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Wed Oct 21 20:05:32 2026 +0200
+
+    Zaktualizowano dokumentację po poprawce rabatu
+
+commit cd226bddb5dabf897abf7327c7da6dde06904a6d
+Merge: 5b8f726 faa207c
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Wed Oct 21 19:55:21 2026 +0200
+
+    Merge branch 'main' into docs/examples
+
+commit faa207cc8368c03b9051ff01ce6d04c9d6ab4aeb
+Merge: f670c29 f97685a
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Wed Oct 21 19:54:33 2026 +0200
+
+    Merge pull request #4 from IvanShcherbets/fix/discount
+    
+    Popraw obliczanie rabatu procentowego
+
+commit f97685aeb37cc65109a6b20964a15d012b0cfba2
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Tue Oct 20 18:28:59 2026 +0200
+
+    Nalicz rabat od całej ceny zamówienia
+
+commit 5b8f726282f85033a00362a7335dac21a5f2fe71
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Tue Oct 20 18:28:07 2026 +0200
+
+    Dodaj przypadki kontrolne rabatu
+
+commit f670c2935978a47ebfba7c09de5e06e44829d3c8
+Merge: 44f7e7d c312f2e
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Tue Oct 20 17:39:02 2026 +0200
+
+    Rozwiąż konflikt: dopuść zero produktów
+
+commit 44f7e7d9dc53939cccb61ad0673f681a551b507c
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Tue Oct 20 17:33:38 2026 +0200
+
+    Wypróbuj minimalną liczbę produktów
+
+commit c312f2eca8f202715af93a8ef01dc3355c8115c1
+Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
+Date:   Tue Oct 20 17:33:03 2026 +0200
+
+    Update Program.java
+
+commit b4d6e20139166eb9561b6569210f080e1b940285
+Author: Vanis <uavanis@gmail.com.com>
+Date:   Tue Oct 20 17:31:47 2026 +0200
+
+    Log
+
 commit e830b290a22de0813fbb9c4e2c8c3913183a80f5
 Merge: 232c41a 9ae368f
 Author: IvanShcherbets <ivan.shcherbets@student.put.poznan.pl>
