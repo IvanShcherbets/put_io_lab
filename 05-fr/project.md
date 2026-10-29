@@ -50,16 +50,23 @@ Osoba chcąca zakupić produkt na aukcji.
 
 [Sprzedający](#ac1):
 * [UC1](#uc1): Wystawienie produktu na aukcję
-* ...
+* [UC3](#uc3): Sprawdzenie wyniku aukcji
+* [UC4](#uc4): Dokonanie płatności
+* [UC5](#uc5): Potwierdzenie otrzymania produktu 
 
 [Kupujący](#ac2)
-* ...
+* [UC2](#uc2): Złożenie oferty na aukcji
+* [UC3](#uc3): Sprawdzenie wyniku aukcji
+* [UC4](#uc4): Dokonanie płatności
+* [UC5](#uc5): Potwierdzenie otrzymania produktu 
 
 ---
 <a id="uc1"></a>
 ### UC1: Wystawienie produktu na aukcję
+###
 
 **Aktorzy:** [Sprzedający](#ac1)
+### UC1: Wystawienie produktu na aukcję
 
 **Scenariusz główny:**
 1. [Sprzedający](#ac1) zgłasza do systemu chęć wystawienia produktu na aukcję.
@@ -77,12 +84,12 @@ Osoba chcąca zakupić produkt na aukcji.
 ---
 
 <a id="uc2"></a>
-### UC2: ...
+### UC2: Złożenie oferty na aukcji
 
-**Aktorzy:** [Sprzedający](#ac1), [Kupujący](#ac2), ...
+**Aktorzy:** [Kupujący](#ac2)
 
 **Scenariusz główny:**
-1. ...
+1. Kupujący zgłasza chęć złożenia 
 
 **Scenariusze alternatywne:** 
 
@@ -117,9 +124,9 @@ Aukcję wygrywa ten z [Kupujący](#ac2)ch, który w momencie jej zakończenia (u
 ## Macierz CRUDL
 
 
-| Przypadek użycia                                  | Aukcja | Produkt | ... |
-| ------------------------------------------------- | ------ | ------- | --- |
-| UC1: Wystawienia produktu na aukcję               |    C   |    C    | ... |
-| ???                                               |  ...   |  ...    | ... |
+| Przypadek użycia                                  | Aukcja | Produkt |
+| ------------------------------------------------- | ------ | ------- |
+| UC1: Wystawienia produktu na aukcję               |    C   |    C    |
+| ???                                               |  ...   |  ...    |
 
 
